@@ -1,6 +1,6 @@
-# FRTTRVELS-BOT ✈️🧳:
+# ABTRVELS-BOT ✈️🧳:
 
-This is project mainly to people who want knowing about the new places 
+We are here to help you to see the new world 
 
 
 # Azure services used in this project
@@ -28,9 +28,10 @@ Following are some key features of Azure Static Web Apps that made me choose thi
 Project Link: https://delightful-sea-0c2be1810.1.azurestaticapps.net/
 
 # Sample images of the project :
+![Screenshot (711)](https://user-images.githubusercontent.com/96166436/174424956-30104bc7-af8b-49fb-8bb5-708a8403d065.png)
+![Screenshot (712)](https://user-images.githubusercontent.com/96166436/174424962-68849272-c64b-4e09-a49e-f58b169c2b32.png)
+![Screenshot (713)](https://user-images.githubusercontent.com/96166436/174424964-9b9f264e-7299-411b-bff6-9e490268193d.png)
+![Screenshot (714)](https://user-images.githubusercontent.com/96166436/174424967-9b22c1f3-cf98-4048-8871-735452f91f04.png)
 
-![Capture11](https://user-images.githubusercontent.com/96176668/171934310-f888679e-ac33-4ea5-89bb-c24f8065d2c9.PNG)
-![Capture22222222](https://user-images.githubusercontent.com/96176668/171934320-126f2bc7-69c3-431f-97dc-3fd2b2b91c71.PNG)
-![Screenshot (131)](https://user-images.githubusercontent.com/96176668/171934368-487b359e-64c1-46f1-af2b-c7fe120ddd41.png)
-![Screenshot (132)](https://user-images.githubusercontent.com/96176668/171934382-f086e243-8a15-480d-b08b-9b96462fb33b.png)
+
 
