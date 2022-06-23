@@ -1,4 +1,4 @@
-# ABTRVELS-BOT ✈️🧳:
+# ABTRVELS-BOT ✈️:
 
 We are here to help you to see the new world 
 
